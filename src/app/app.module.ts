@@ -19,3 +19,4 @@ import { PagesModule } from './pages/pages.module';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
